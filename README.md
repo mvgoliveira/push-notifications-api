@@ -1,0 +1,1 @@
+**Para criar novas Entidades:** `nest g res NOME --no-spec`
